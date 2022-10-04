@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACT 9 - Menus en C++++", "ACT 9 - Menus en C++++\ACT 9 - Menus en C++++.csproj", "{141BFAA5-0711-49E1-9A6A-F47B4C034B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141BFAA5-0711-49E1-9A6A-F47B4C034B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141BFAA5-0711-49E1-9A6A-F47B4C034B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141BFAA5-0711-49E1-9A6A-F47B4C034B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141BFAA5-0711-49E1-9A6A-F47B4C034B12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F4FA361-9306-4C21-BFF9-C5BF3AD04A0D}
+	EndGlobalSection
+EndGlobal
